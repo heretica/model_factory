@@ -1,0 +1,111 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "type": "rectangle",
+      "version": 254,
+      "versionNonce": 361281981,
+      "isDeleted": false,
+      "id": "8UCb24j1jU-BYx5-nzfuy",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "angle": 0,
+      "x": 53.88671875,
+      "y": 327.7109375,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 135.44140624999997,
+      "height": 83.234375,
+      "seed": 1496304253,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [],
+      "updated": 1705061755265,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "T7IrYwxzCg_1ih8MXRm_p",
+      "type": "ellipse",
+      "x": 318.279296875,
+      "y": 285.99609375,
+      "width": 172.00781250000003,
+      "height": 150.78125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 252543539,
+      "version": 180,
+      "versionNonce": 1338652147,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "aW078KajpxLlWQAeqNb_J"
+        }
+      ],
+      "updated": 1705061808067,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "aW078KajpxLlWQAeqNb_J",
+      "type": "text",
+      "x": 350.7093014472296,
+      "y": 349.07749657460795,
+      "width": 107.51991271972656,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 359413437,
+      "version": 184,
+      "versionNonce": 1748137683,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1705061808068,
+      "link": null,
+      "locked": false,
+      "text": "Renewables",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "T7IrYwxzCg_1ih8MXRm_p",
+      "originalText": "Renewables",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
