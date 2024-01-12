@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "ellipse",
-      "version": 115,
-      "versionNonce": 586312187,
+      "version": 116,
+      "versionNonce": 944733459,
       "isDeleted": false,
       "id": "LbZmQqRXmI09dzBVaBEYc",
       "fillStyle": "solid",
@@ -35,13 +35,9 @@
         {
           "id": "PH4Ciu0kggQpNA0iRIvxr",
           "type": "arrow"
-        },
-        {
-          "id": "6-qK7bA3bZkrTDzU8Syce",
-          "type": "arrow"
         }
       ],
-      "updated": 1705058289110,
+      "updated": 1705062258023,
       "link": null,
       "locked": false
     },
@@ -83,8 +79,8 @@
     },
     {
       "type": "ellipse",
-      "version": 179,
-      "versionNonce": 1990816411,
+      "version": 180,
+      "versionNonce": 1768317811,
       "isDeleted": false,
       "id": "kMNdA0oqfB9TVlxZHYdZj",
       "fillStyle": "solid",
@@ -109,13 +105,9 @@
         {
           "type": "text",
           "id": "vfR30q0ALY2mZWFz8WmTq"
-        },
-        {
-          "id": "6-qK7bA3bZkrTDzU8Syce",
-          "type": "arrow"
         }
       ],
-      "updated": 1705058289110,
+      "updated": 1705062258023,
       "link": null,
       "locked": false
     },
@@ -401,8 +393,8 @@
     },
     {
       "type": "arrow",
-      "version": 56,
-      "versionNonce": 96239355,
+      "version": 122,
+      "versionNonce": 1106417107,
       "isDeleted": false,
       "id": "6-qK7bA3bZkrTDzU8Syce",
       "fillStyle": "solid",
@@ -411,8 +403,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 820.7516527928241,
-      "y": 602.9035617497867,
+      "x": 843.8195424806376,
+      "y": 639.1531026877792,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 586.8419313894252,
@@ -424,19 +416,11 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1705058289111,
+      "updated": 1705062258023,
       "link": null,
       "locked": false,
-      "startBinding": {
-        "elementId": "kMNdA0oqfB9TVlxZHYdZj",
-        "focus": -0.654384189069222,
-        "gap": 2.219977299384425
-      },
-      "endBinding": {
-        "elementId": "LbZmQqRXmI09dzBVaBEYc",
-        "focus": 0.08356385871162927,
-        "gap": 6.48223049528076
-      },
+      "startBinding": null,
+      "endBinding": null,
       "lastCommittedPoint": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
